@@ -25,7 +25,7 @@ function rollDi(numRoll)
         type: 'pie'
     },
     title: {
-        text: 'Number of times the Di was Rolled'
+        text: 'Number of times the Dice was Rolled'
     },
     tooltip: {
         pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
